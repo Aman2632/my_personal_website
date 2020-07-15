@@ -18,8 +18,16 @@ body{
 
 .box-img{
     border-right: 50%;
-    width:230px;
+    width:350px;
+    height:350px;
+    border-radius: 155px;
+}
+
+.box-img2{
+    border-right: 50%;
+    width:310px;
     height:310px;
+    border-radius: 155px;
 }
 
  .ic {
@@ -27,6 +35,16 @@ body{
                  width:55px;
                  height: 55px;
      }
+
+.l {
+                 border-right: 50%;
+                 margin-top: 10px;
+                 margin-left: 15px;
+                 width:55px;
+                 height: 55px;
+                 border-radius: 5px
+     }
+
 
 .box h1{
     font-size: 40px;
